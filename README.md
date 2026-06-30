@@ -7,7 +7,7 @@ This project implements an ETL pipeline with the data being sourced from a News 
 ## Project Structure
 
 ```
-speech-recognition/
+News ETL Assignment/
 ├── data/
 │   ├── articles.csv/          # Raw articles
 ├── notebooks/        # Jupyter notebooks for testing
