@@ -20,3 +20,10 @@ speech-recognition/
 ├── requirements.txt
 └── README.md
 ```
+
+## Setup
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
